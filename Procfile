@@ -1,1 +1,1 @@
-web: gunicorn NETRYBE.wsgi --log-file -
+web: gunicorn netrybe.wsgi --log-file -
